@@ -4,7 +4,7 @@
 
 - 💪 Planning to become a desiring software developer 🤘
 - 💞 Totally a life lover 💖
-- 😄 Looking forward to collaborate with great fellows out there in all kinds of projects 😃
+- 😄 Looking forward to collaborating with great fellows out there in all kinds of projects 😃
 - 🔥 Fire up the heat in da party! 💥
 - 🌟 Guitar and music, hmm.. best combination in my life ! 🎵
 
