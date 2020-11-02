@@ -42,7 +42,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bietdoikiem&show_icons=true&hide_border=true" />
+![bietdoikiem's github stats](https://github-readme-stats.vercel.app/api?username=bietdoikiem&show_icons=true&theme=tokyonight)
  
 [facebook]: https://www.facebook.com/minhngphamquoc/
 [youtube]: https://www.youtube.com/channel/UCY76ZjMQeCRp7EZAS3MNp3Q
