@@ -8,9 +8,9 @@
 - 🔥 Fire up the heat in da party!
 - 🌟 Guitar and music, hmm.. best combination in my life !
 
-### Spotify Playing 🎧
+### Github Stats ☔ ☁️
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+![bietdoikiem's github stats](https://github-readme-stats.vercel.app/api?username=bietdoikiem&show_icons=true&theme=onedark)
 
 ### Connect with me:
 
@@ -36,11 +36,11 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<summary>:zap: GitHub Stats</summary>
-
-![bietdoikiem's github stats](https://github-readme-stats.vercel.app/api?username=bietdoikiem&show_icons=true&theme=highcontrast)
  
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 [facebook]: https://www.facebook.com/minhngphamquoc/
 [youtube]: https://www.youtube.com/channel/UCY76ZjMQeCRp7EZAS3MNp3Q
 [instagram]: https://www.instagram.com/qcminh248/
