@@ -2,11 +2,11 @@
 
 ## I'm major in Information Technology at RMIT Vietnam University
 
-- 🔭 Planning to become a desiring software developers
-- 🌱 Totally a life lover 💖
-- 😄 Looking forward to collaborate with great fellows out there in all kinds of projects 
-- 🔥 Fire up the heat in da party!
-- 🌟 Guitar and music, hmm.. best combination in my life !
+- 💪 Planning to become a desiring software developers 🤘
+- 💞 Totally a life lover 💖
+- 😄 Looking forward to collaborate with great fellows out there in all kinds of projects 😃
+- 🔥 Fire up the heat in da party! 💥
+- 🌟 Guitar and music, hmm.. best combination in my life ! 🎵
 
 ### Github Stats ☔ ☁️
 
@@ -18,6 +18,8 @@
 [<img align="left" alt="bietdoikiem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bietdoikiem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bietdoikiem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
 
 ### Languages and Tools:
 
@@ -39,7 +41,7 @@
  
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bietdoikiem's Spotify Playing" width="350" />](https://open.spotify.com/user/f51gpa559n8otz697l815wq4v)
 
 [facebook]: https://www.facebook.com/minhngphamquoc/
 [youtube]: https://www.youtube.com/channel/UCY76ZjMQeCRp7EZAS3MNp3Q
