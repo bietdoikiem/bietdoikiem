@@ -1,6 +1,6 @@
 ### Hi there, I'm Minh Nguyen ✌️
 
-## I'm major in Information Technology at RMIT Vietnam University
+## I major in Information Technology at RMIT Vietnam University
 
 - 💪 Planning to become a desiring software developers 🤘
 - 💞 Totally a life lover 💖
