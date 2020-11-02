@@ -2,7 +2,7 @@
 
 ## I major in Information Technology at RMIT Vietnam University
 
-- 💪 Planning to become a desiring software developers 🤘
+- 💪 Planning to become a desiring software developer 🤘
 - 💞 Totally a life lover 💖
 - 😄 Looking forward to collaborate with great fellows out there in all kinds of projects 😃
 - 🔥 Fire up the heat in da party! 💥
