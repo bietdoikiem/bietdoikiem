@@ -1,4 +1,4 @@
-### Hi there, I'm Minh
+### Hi there, I'm Minh Nguyen ✌️
 
 ## I'm major in Information Technology at RMIT Vietnam University
 
