@@ -6,7 +6,7 @@
 - 💞 Totally a life lover 💖
 - 😄 Looking forward to collaborating with great fellows out there in all kinds of projects 😃
 - 🔥 Fire up the heat in da party! 💥
-- 🌟 Guitar and music, hmm.. best combination in my life ! 🎵
+- 🌟 Guitar and music, M and K hmm.. best combinations in my life ! 🎵
 
 ### Github Stats ☔ ☁️
 
