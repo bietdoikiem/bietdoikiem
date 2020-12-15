@@ -4,7 +4,7 @@
 
 - 💪 A desiring software developer 🤘
 - 😄 Looking forward to collaborating with great fellows out there in all kinds of projects 😃
-- 🔥 Fire up the heat in da party! 💥
+- 🔥 Currently working for several side-projects listed in my repository and shared one 💥
 - 🌟 Guitar and music, M and K hmm.. best combinations in my life ! 🎵
 
 ### Github Stats ☔ ☁️
