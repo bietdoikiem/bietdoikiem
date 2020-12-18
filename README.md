@@ -7,7 +7,7 @@
 - 🔥 Currently working for several side-projects listed in my repository and shared one 💥
 - 🌟 Guitar and music, M and K hmm.. best combinations in my life ! 🎵
 
-### Github Stats ☔ ☁️
+### Github Stats 🏹
 
 ![bietdoikiem's github stats](https://github-readme-stats.vercel.app/api?username=bietdoikiem&show_icons=true&theme=onedark)
 
