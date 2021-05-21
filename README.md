@@ -45,4 +45,5 @@
 [linkedin]: https://www.linkedin.com/in/minh-nguyen-pham-quoc-368708194/
 
 ### Have some Coffee!
-<div style="text-align:center"><img alt="coffee-gif" width="200px" height="200px" src="https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839" /></div>
+<p align="center">
+<img alt="coffee-gif" width="300px" height="200px" src="https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839" /></p>
