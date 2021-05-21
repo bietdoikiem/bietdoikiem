@@ -2,7 +2,7 @@
 
 ## I major in Information Technology at RMIT Vietnam University
 
-- 💪 Interested in Software engineer / Data engineer 🤘
+- 💪 Interested in Software Engineer / Data Engineer 🤘
 - 😄 Looking forward to collaborating with great fellows out there in all kinds of projects 😃
 - 🔥 Currently working for several side-projects listed in my repository and shared one 💥
 - 🌟 Guitar and music, M and K hmm.. best combinations in my life ! 🎵
