@@ -38,10 +38,6 @@
 
 <br/>
  
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bietdoikiem's Spotify Playing" width="350" />](https://open.spotify.com/user/f51gpa559n8otz697l815wq4v)
-
 [facebook]: https://www.facebook.com/minhngphamquoc/
 [youtube]: https://www.youtube.com/channel/UCY76ZjMQeCRp7EZAS3MNp3Q
 [instagram]: https://www.instagram.com/qcminh248/
