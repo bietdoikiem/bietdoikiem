@@ -37,13 +37,13 @@
 <img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> />
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> />
-<hr/>
- 
+<br/>
+
 [facebook]: https://www.facebook.com/minhngphamquoc/
 [youtube]: https://www.youtube.com/channel/UCY76ZjMQeCRp7EZAS3MNp3Q
 [instagram]: https://www.instagram.com/qcminh248/
 [linkedin]: https://www.linkedin.com/in/minh-nguyen-pham-quoc-368708194/
-<hr/>
 
+<hr/>
 <p align="center">
 <img alt="coffee-gif" width="300px" height="200px" src="https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839" /></p>
