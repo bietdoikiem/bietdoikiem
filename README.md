@@ -1,4 +1,4 @@
-### Hi there, I'm Minh Nguyen aka. bietdoikiem ✌️
+### Hi there, I'm Minh Nguyen aka. DKay ✌️
 
 ## I major in Information Technology at RMIT Vietnam University
 
