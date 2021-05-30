@@ -7,16 +7,6 @@
 - 🔥 Currently working for several side-projects listed in my repository and shared one 💥
 - 🌟 Guitar and music, M and K hmm.. best combinations in my life ! 🎵
 
-
-### Connect with me ☎️
-
-[<img align="left" alt="bietdoikiem | Facebook" width="22px" src="https://svgshare.com/i/R9U.svg" />][facebook]
-[<img align="left" alt="bietdoikiem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="bietdoikiem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bietdoikiem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
 ### Languages and Tools 🥇
 
 < <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,6 +24,16 @@
 <img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> />
+
+<br/>
+
+### Connect with me ☎️
+
+[<img align="left" alt="bietdoikiem | Facebook" width="22px" src="https://svgshare.com/i/R9U.svg" />][facebook]
+[<img align="left" alt="bietdoikiem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="bietdoikiem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bietdoikiem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br/>
 
 [facebook]: https://www.facebook.com/minhngphamquoc/
