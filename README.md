@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bietdoikiem&show_icons=true&theme=onedark" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bietdoikiem&layout=compact&theme=onedark" />
+  <img width="200px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bietdoikiem&layout=compact&theme=onedark" />
 </a>
 
 ### Connect with me ☎️
