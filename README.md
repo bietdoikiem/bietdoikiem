@@ -4,7 +4,7 @@
 
 - 💪 Interested in Software Engineer / Data Engineer 🤘
 - 😄 Looking forward to collaborating with great fellows out there in all kinds of projects 😃
-- 🔥 Currently working for several side-projects listed in my repository and shared/pinned one 💥
+- 🔥 Currently working for several side-projects listed in my repository and shared/pinned ones 💥
 - 🌟 Guitar and music, M and K hmm.. best combinations in my life ! 🎵
 
 ### Languages and Tools 🥇
