@@ -1,4 +1,4 @@
-### Hi there, I'm Minh __(/m-eh/)__ ✌️
+### Hi there, I'm Minh __(/mɪn/)__ ✌️
 
 ## I major in Information Technology at RMIT Vietnam University
 
