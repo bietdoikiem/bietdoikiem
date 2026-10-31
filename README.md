@@ -11,7 +11,7 @@
 [facebook]: https://www.facebook.com/minhngphamquoc/
 [youtube]: https://www.youtube.com/channel/UCY76ZjMQeCRp7EZAS3MNp3Q
 [instagram]: https://www.instagram.com/qcminh248/
-[linkedin]: https://www.linkedin.com/in/minh-nguyen-pham-quoc-368708194/
+[linkedin]: https://www.linkedin.com/in/minh-nguyen-368708194/
 
 <hr/>
 <p align="center">
